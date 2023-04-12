@@ -1,8 +1,8 @@
 {
-  "name": "eladmin-web",
+  "name": "streamDTP-web",
   "version": "2.6.0",
-  "description": "ELADMIN 前端源码",
-  "author": "Zheng Jie",
+  "description": "streamDTP 前端源码",
+  "author": "Deng minchuan",
   "license": "Apache-2.0",
   "scripts": {
     "dev": "vue-cli-service serve",
